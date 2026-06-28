@@ -1,4 +1,4 @@
-# 
+# Top AutoHotkey scripts for Mac OS | New AutoHotkey scripts for PC Windows. Featuring data visualization and plugin system — optimized for maximum performance on every platform.
 
 
 
